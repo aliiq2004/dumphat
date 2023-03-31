@@ -1,0 +1,17 @@
+{
+    "name": "lakflwndlks",
+    "description": "jsjgkdnd",
+    "keywords": [
+      "telegram-bot",
+      "python",
+      "proxy"
+    ],
+    "website": "https://github.com/aliiq2004/lakflwndlks",
+    "repository": "https://github.com/aliiq2004/lakflwndlks",
+    "success_url": "https://github.com/aliiq2004/lakflwndlks",
+    "env": {
+      "TOKEN": {
+        "description": "TOKEN"
+      }
+    }
+}
