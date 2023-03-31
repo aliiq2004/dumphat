@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+
+_set_bot () {
+    python3 -m bot.py
+}
+
+_set_bot
